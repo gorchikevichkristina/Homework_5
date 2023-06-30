@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34\\task34.csproj": {}
+    "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34_dz_5\\task34.csproj": {}
   },
   "projects": {
-    "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34\\task34.csproj": {
+    "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34_dz_5\\task34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34\\task34.csproj",
+        "projectUniqueName": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34_dz_5\\task34.csproj",
         "projectName": "task34",
-        "projectPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34\\task34.csproj",
+        "projectPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34_dz_5\\task34.csproj",
         "packagesPath": "C:\\Users\\Кристина Олеговна\\.nuget\\packages\\",
-        "outputPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34\\obj\\",
+        "outputPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task34_dz_5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Кристина Олеговна\\AppData\\Roaming\\NuGet\\NuGet.Config"

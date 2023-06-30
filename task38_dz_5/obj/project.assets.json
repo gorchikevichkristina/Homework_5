@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task38\\task38.csproj",
+      "projectUniqueName": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task38_dz_5\\task38.csproj",
       "projectName": "task38",
-      "projectPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task38\\task38.csproj",
+      "projectPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task38_dz_5\\task38.csproj",
       "packagesPath": "C:\\Users\\Кристина Олеговна\\.nuget\\packages\\",
-      "outputPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task38\\obj\\",
+      "outputPath": "D:\\программирование\\Csharp\\sharpseminar\\Homework\\Homework_5\\task38_dz_5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Кристина Олеговна\\AppData\\Roaming\\NuGet\\NuGet.Config"
